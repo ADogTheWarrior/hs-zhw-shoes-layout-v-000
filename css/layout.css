@@ -39,6 +39,7 @@
 
 .row{
   margin-top: 30px;
+  float: left;
 }
 
 [class*="col-"]{
