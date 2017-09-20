@@ -49,3 +49,8 @@
 .first{
   margin-left: 0%;
 }
+
+.row-center{
+  margin-left: auto;
+  margin-right: auto;
+}
