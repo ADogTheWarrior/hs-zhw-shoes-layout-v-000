@@ -38,7 +38,7 @@
 }
 
 .row{
-
+  height: 600px;
 }
 
 [class*="col-"]{
